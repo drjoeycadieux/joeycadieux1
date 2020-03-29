@@ -1,0 +1,21 @@
+{
+  "name": "joey-cadieux",
+  "version": "1.0.0",
+  "description": "developer portfiolio",
+  "author": "Victoria Bergquist",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicbergquist/codesandbox-vuepress"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0"
+  },
+  "keywords": [
+    "joeydevops"
+  ]
+}
