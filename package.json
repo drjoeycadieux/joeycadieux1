@@ -13,7 +13,7 @@
     "url": "https://github.com/vicbergquist/codesandbox-vuepress"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.8.0"
   },
   "keywords": [
     "joeydevops"
